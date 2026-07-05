@@ -1,90 +1,66 @@
 # 👋 Hi, I'm Daniel "Light" Olorunda
 
-### 🚀 Computer Engineering Student | Software & Web Developer | Tech Builder | Product & Business Enthusiast  
-### 🌍 Sharing my journey in Technology, Business, and Youth Empowerment — *The LightHouse Way*
+**Builder. Product person. Founder.**
+
+`Technology · Business · Empowerment`
+
+I'm a Computer Engineering student at the **University of Lagos** (Class of 2028), building products at the intersection of technology and opportunity for African youth. I transitioned from frontend development into Product Management and Operations — but I still build. I believe the best PMs understand the code, the user, and the business.
 
 ---
 
-## 🌟 About Me
+## 🧰 Tech Stack
 
-I'm Daniel “Light” Olorunda, a Computer Engineering student at the University of Lagos (Class of 2028), passionate about building solutions at the intersection of **technology, business, and youth empowerment**.
+**Languages:** Python · JavaScript · C++ · MATLAB · HTML · CSS
 
-I believe in learning through building — turning ideas into real products and helping young people understand *the business of tech*.
+**Frameworks & Libraries:** React · TailwindCSS · Node.js
 
----
-
-## 🧰 Tech Stack & Tools
-
-**Languages:**  
-- Python • JavaScript • C++ • MATLAB • HTML • CSS
-
-**Frameworks & Libraries:**  
-- React • TailwindCSS • Node.js (learning)
-
-**Tools:**  
-- Git & GitHub • Figma • MATLAB • VS Code
+**Tools & Platforms:** Git · GitHub · VS Code · Supabase · Gemini AI · Claude · Figma
 
 ---
 
-## 💼 Experience & Leadership
+## 🚀 Featured Project
 
-- 🎓 **Frontend Development Trainee** — New Horizons (World Bank Scholarship)  
-- 🏆 **WUD AI Hackathon Winner** — World Usability Day Africa  
-- 🏛️ **Founder** — LightHouse  
-- 🔹 **Vice President (formerly Group Administrator)** — Mental Health Hub  
-- ⚙️ **Operations Team Member** — SEES UNILAG  
-- 🧱 **Frontend Web Developer (Product Builder)** — Programmify  
-- 💻 **Frontend Developer** — New Horizons  
-- 🔧 **Operations Manager, IT Team** — UNILAG Energy Club  
-- 📣 **Programs & Communication Director** — Student Energy at UNILAG
+### Career Compass — *AI-Powered Career Guidance for African Students*
+
+A RIASEC-based career assessment and guidance platform built for African students and young professionals. Helping users discover their strengths, explore career paths, and take action.
+
+`100+ users` · `Next.js` · `Supabase` · `Gemini AI` · `Fastify`
 
 ---
 
-## 🌍 The LightHouse Brand  
+## 💼 Current Roles
 
-I run **LightHouse**, a personal brand focused on:  
-- **Youth Empowerment**  
-- **Technology**  
-- **Business**  
-- **Digital Skills for the Future**
-
-> *"Technology. Business. Empowerment. — The LightHouse Way."*
-
-Follow the journey on X: **@DrLightHouse_HQ**   
-Hashtag: **#DrLightHouse**
-Follow the journey on LinkedIn: **https://www.linkedin.com/company/drlighthouse** 
+- **PM / Chief Business Officer** — Afrivate Technologies
+- **Programs & Communications Director** — Student Energy at UNILAG (SEUL)
+- **Events & Partnerships Lead** — SEES Tech Hub
+- **Deputy Programme Lead** — ET360°
+- **Jim Leech Mastercard Foundation Fellow** — Queen's University (Ignite Entrepreneurship)
 
 ---
 
-## 📈 What I'm Working On
-- Expanding LightHouse across more digital platforms  
-- Growing my software engineering and product development skills  
-- Building practical, impactful tech products  
-- Documenting and sharing my learning journey  
+## 🏛️ LightHouse Venture Studio
+
+I founded **LightHouse Venture Studio**, building technology products that create opportunity for African youth.
+
+Flagship product: **Career Compass**
+
+> *"Technology. Business. Empowerment."*
+
+Follow the journey: [@DrLightHouse_HQ](https://x.com/DrLightHouse_HQ) · [#DrLightHouse](https://x.com/hashtag/DrLightHouse)
 
 ---
 
-## 📫 Connect With Me  
-- **LinkedIn:** www.linkedin.com/in/daniel-toluwani-olorunda  
-- **GitHub:** https://github.com/The-DrLight  
-- **Email:** olorundadaniel3@gmail.com  
+## 🏆 Highlights
+
+- 🥇 WUD AI Hackathon Winner — World Usability Day Africa
+- 🎓 Harvard ALP '25
+- 📜 Google Project Management Certificate 
 
 ---
 
-### ⭐ *If you like my work or want to collaborate, feel free to reach out!*
+## 📫 Let's Connect
 
-
-<!--
-**The-DrLight/The-DrLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [lighthouse studio website](https://lighthouse-studio.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-olorunda)
+- 🐦 [X / Twitter](https://x.com/DrLightHouse_HQ)
+- 📧 [olorundadaniel3@gmail.com](mailto:olorundadaniel3@gmail.com)
