@@ -33,7 +33,7 @@ A RIASEC-based career assessment and guidance platform built for African student
 - **PM / Chief Business Officer** — Afrivate Technologies
 - **Programs & Communications Director** — Student Energy at UNILAG (SEUL)
 - **Events & Partnerships Lead** — SEES Tech Hub
-- **Deputy Programme Lead** — ET360°
+- **Operations Lead** — ET360°
 - **Jim Leech Mastercard Foundation Fellow** — Queen's University (Ignite Entrepreneurship)
 
 ---
